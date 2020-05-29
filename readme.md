@@ -42,10 +42,10 @@ Considering the profitability of Sci-Fi at about 800 million dollars over the la
 ![Expected Budget for Top 5 "safest" Profitable Genres](#https://github.com/Moses-Lin/dsc-mod-1-project-v2-1-nyc01-dtsc-ft-051120/blob/master/Expected%20Budget%20for%20Top%205%20%22safest%22%20Profitable%20Genres.png)
 
 
+# Recommendations
 
-
-
-
-
-
+- Based on our data, we do indeed recommend that Microsoft enter the film industry in the current year 2020.
+- Focus on accomodating films such that they are available in as many regions as possible.
+- Focus on investing in film genres with a high chance of profit, such as Science Fiction, Adventure, Romance, and Fantasy.
+- Expect to invest about $350 million on average when producing Sci-Fi, and around $100 million on average when investing in Adventure, Romance, Fantasy, and other genres.
 
